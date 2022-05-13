@@ -8,7 +8,7 @@ export default class View {
    * @param {Object | Object[]} data the data to be rendered (e.g. recipe)
    * @param {boolean} [render=true] if false, create markup string insted of rendering to the DOM
    * @returns {undefined | string} A markup is returned if render= false
-   * @this {object} View instance
+   * @this {Object} View instance
    * @author Aman Chahal
    * @todo Finish implementation
    */
